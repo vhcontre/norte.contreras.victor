@@ -11,6 +11,14 @@ Además, aborda y profundiza los conceptos de Cliente-Servidor permitiéndole id
  2. Diseño de sistemas.
  3. Programación.  
  4. Base de datos.
+ 
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+
 
 [Más info](https://www.uai.edu.ar/)
 
