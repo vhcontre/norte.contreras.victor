@@ -107,3 +107,12 @@ footer {
     text-align: center;
     color: #fafafa;
 }
+figure {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 1px;
+    margin-inline-end: 1px;
+}
+figure img{
+    width:850px;
+}
